@@ -10,6 +10,4 @@ This Python module provides a robust implementation of an R-squared (coefficient
 - Type hinting for better code readability
 - Efficient calculations using numpy
 
-## Installation
 
-Clone this repository:
